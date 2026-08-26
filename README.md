@@ -37,7 +37,7 @@ Just:
 
 The Windows `.exe` will be available in the **Releases** section.
 
-[![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](-)
+[![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/declose/metadata-cleaner/releases)
 
 ### Linux
 
@@ -79,3 +79,11 @@ For example:
 ```text
 vacation.jpg
 vacation_cleaned.jpg
+```
+
+## License
+
+Please do not re-upload or redistribute the original project as your own.
+
+That's it!
+
