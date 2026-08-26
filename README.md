@@ -37,7 +37,7 @@ Just:
 
 The Windows `.exe` will be available in the **Releases** section.
 
-[![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](YOUR_DOWNLOAD_LINK_HERE)
+[![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](-)
 
 ### Linux
 
