@@ -39,6 +39,22 @@ The Windows `.exe` will be available in the **Releases** section.
 
 [![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](YOUR_DOWNLOAD_LINK_HERE)
 
+### Linux
+
+> **Coming soon**
+
+The first Linux release will target **Arch-based distributions**.
+
+Planned support includes distributions such as:
+
+- Arch Linux
+- Manjaro
+- EndeavourOS
+- CachyOS
+- Other Arch-based distributions
+
+Linux builds will be available in the **Releases** section once ready.
+
 ---
 
 ## How to use
