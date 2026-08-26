@@ -33,9 +33,7 @@ Just:
 
 ### Windows
 
-> **Coming soon**
-
-The Windows `.exe` will be available in the **Releases** section.
+The latest official Windows version is available here:
 
 [![Download Metadata Cleaner](https://img.shields.io/badge/Download-Windows%20EXE-40AF2F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/declose/metadata-cleaner/releases)
 
